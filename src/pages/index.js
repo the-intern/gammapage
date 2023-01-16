@@ -29,6 +29,9 @@ const IndexPage = () => (
           <a href="https://iotapage.vercel.app/">Iota page</a>
         </li>
         <li className={styles.listItem}>
+          <a href="https://betapage.vercel.app/">Beta page</a>
+        </li>
+        <li className={styles.listItem}>
           <a href="https://deltapage.vercel.app/">Delta page</a>
         </li>
       </ul>
